@@ -1,0 +1,58 @@
+/* add your CSS here */
+h3{
+  text-align:left;
+  padding:5px;
+  font:small-caps bold 18pt monospace;
+  color:green;
+  text-align:center;
+}
+li{
+  list-style: none;
+  text-align:left;
+}
+span{
+  font-weight:bold;
+}
+.interestingfact{
+  font-style:italic;
+}
+.stumpy{
+  border:5px solid black;
+  width:360px;
+  font-size:20pt serif;
+  background-color:#4B9583;
+  margin: 10px 10px 10px 10px;
+}
+.description{
+  width:300px;
+  border: 3px solid gray;
+  margin:10px 10px 10px 10px;
+  text-align:center;
+  padding: 1em 1em 1em 1em;
+  background-color:white;
+}
+img{
+  max-width:300px;
+  padding: 1em 1em 1em 1em ;
+  margin: 5px 5px 5px 5px;
+  text-align:center;
+}
+.cat{
+  background-color:black;
+  font-family: serif;
+  text-align:center;
+  padding:5px;
+
+}
+.catscription{
+  background-color:pink;
+}
+.box{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  align-content:justify;
+  align-self:justify; 
+  
+}
+  
